@@ -1,0 +1,846 @@
+Dahua DSS  SQL注入
+Seeyon  任意文件包含
+Xxunchi CMS  任意文件包含
+AceNet AceReporter Report  任意文件下载
+Leadsec VPN  任意文件读取
+MPSec ISG Security Gateway  任意文件下载
+Ruijie Smartweb Management System Password Information Disclosure  信息泄露
+Ruoyi Management System  任意文件包含
+ThinkPHP Multi Languag  远程代码执行
+Hongjing Human Resource Management System  SQL注入
+Open Bulletin Board (OpenBB)  跨站脚本
+Squirrelmail  任意文件包含
+Alcatel  远程命令执行
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+phpPgAdmin  任意文件包含
+AWStats开放重定向
+Autonomy Ultraseek  开放重定向
+Cisco Linksys WVC 任意文件包含
+Horde/Horde Groupware  任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+WebGlimpse  目录遍历
+ZeroShell Remote Code Execution  远程代码执行
+Adobe ColdFusion LFI  任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 目录遍历
+Joomla 目录遍历
+Joomla 目录遍历
+Joomla 目录遍历
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 目录遍历
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 目录遍历
+Joomla 目录遍历
+Joomla 任意文件包含
+Joomla 目录遍历
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+Joomla 任意文件包含
+MODx manager  任意文件包含
+Tiki Wiki CMS Groupware  任意文件包含
+phpShowtime  目录遍历
+Chyrp  任意文件包含
+Cisco CUCM, UCCX, and Unified IP  目录遍历
+Joomla 任意文件包含
+Majordomo  目录遍历
+Orchard 'ReturnUrl' Parameter URI  开放重定向
+Apache Struts远程代码执行
+Apache Struts S  远程代码执行
+Axigen Mail Server Filename Directory Traversal  目录遍历
+Dolibarr ERP/CRM Alpha  目录遍历
+FlatnuX CMS  目录遍历
+Forescout CounterACT  开放重定向
+MySQLDumper  目录遍历
+OpenEMR  任意文件包含
+TikiWiki CMS Groupware  开放重定向
+phpShowtime  目录遍历
+Cisco Unified Communications Manager / /  目录遍历
+Telaen =>  开放重定向
+Xibo /  目录遍历
+Zimbra Collaboration Server / Local File Inclusion  任意文件包含
+Belkin N Router /  路径遍历
+DomPHP  目录遍历
+Fonality trixbox  任意文件包含
+Gogs (Go Git Service)  SQL注入
+Netsweeper  目录遍历
+Osclass Security Advisory  任意文件包含
+Seagate BlackArmor NAS  命令注入
+Simple Online Planning Tool任意文件包含
+webEdition  目录遍历
+Atlassian Confluence信息泄露
+Bonita BPM Portal任意文件包含
+ElasticSearch任意文件包含
+Elasticsearch  任意文件包含
+IceWarp Mail Server目录遍历
+Joomla SQL注入
+Joomla 任意文件包含
+Kaseya Virtual System Administrator  开放重定向
+Kentico CMS  开放重定向
+Koha  目录遍历
+Magento Server MAGMI  目录遍历
+ManageEngine Firewall Analyzer任意文件包含
+Novius OS  开放重定向
+Symfony  认证绕过
+SysAid Help Desk任意文件包含
+WordPress Slider Revolution  文件泄露
+Xceedium Xsuite  任意文件包含
+Xsuite  开放重定向
+Apache S  远程代码执行
+Apache mod_userdir CRLF injection  CRLF注入
+NETGEAR Routers  远程代码执行
+NUUO NVR camera `debugging_center_utils_ `  命令执行
+Opsview Monitor Pro  任意文件包含
+Spring Security OAuth Remote Command Execution  远程命令执行
+Trend Micro Threat Discovery Appliance  认证绕过
+ZOHO WebNMS Framework < SP  任意文件包含
+Zabbix  SQL注入
+Apache CouchDB /权限提升
+Apache Struts S  远程代码执行
+Dahua Security  文件泄露
+DataTaker DT dEX  信息泄露
+DedeCMS  SQL注入
+Fastjson Insecure Deserialization  远程代码执行
+FiberHome Routers  任意文件包含
+Joomla SQL注入
+Kentico  权限提升
+Luracast Restler via TYPO Restler  任意文件包含
+NETGEAR Routers  认证绕过
+Nextjs任意文件包含
+Odoo  开放重定向
+Odoo / /  任意文件包含
+OpenDreambox  远程代码执行
+OpenVPN Access Server  CRLF注入
+Oracle E  开放重定向
+Oracle GlassFish Server Open Source Edition  任意文件包含
+Palo Alto Network PAN  远程代码执行
+Subrion CMSSQL注入
+Trixbox  命令注入
+Yaws  任意文件包含
+Apache Struts S  远程代码执行
+Argus Surveillance DVR  任意文件包含
+AudioCodes  远程代码执行
+Centos Web Panel  任意文件包含
+Cisco ASA  任意文件包含
+Cisco RV /RV Router  信息泄露
+DedeCMS  远程代码执行
+DotCMS开放重定向
+Drupal avatar_uploader  任意文件包含
+Eaton Intelligent Power Manager  目录遍历
+Eventum开放重定向
+FUEL CMS  远程代码执行
+Intelbras NPLUG  认证绕过
+Jenkins  命令注入
+Joomla SQL注入
+Joomla SQL注入
+Joomla SQL注入
+Joomla 任意文件包含
+Kibana  任意文件包含
+Kubernetes Dashboard认证绕过
+Loytec LGATE  任意文件包含
+Microstrategy Web  任意文件包含
+NCBI ToolBox  目录遍历
+NUUO NVRmini  远程命令执行
+NagiosXI  SQL注入
+NagiosXI `commandline ` SQL injection  SQL注入
+Nuxeo远程代码执行
+Orange Forum  开放重定向
+Oturia WordPress Smart Google Code Inserter认证绕过
+PHP Proxy  任意文件包含
+PhpMyAdmin任意文件包含
+PrestaShop Responsive Mega Menu Module  远程代码执行
+Rubedo CMS  目录遍历
+Ruby On Rails  任意文件包含
+Seagate NAS OS  开放重定向
+Splunk  信息泄露
+Spring MVC Framework  任意文件包含
+TIBCO JasperReports Library  目录遍历
+Tarantella Enterprise任意文件包含
+ThinkPHP  远程代码执行
+Tyto Sahi pro /  任意文件包含
+Webgrind  任意文件包含
+Wowza Streaming Engine Manager  目录遍历
+Zeit Next任意文件包含
+Zeta Producer Desktop CMS任意文件包含
+node  任意文件包含
+Adobe Experience Manager  表达式语言注入
+Apache HTTP server to  开放重定向
+Apache Struts  远程代码执行
+Aptana Jaxer  任意文件包含
+Babel  开放重定向
+BlogEngine  任意文件包含
+Cisco Small Business WAN VPN Routers  信息泄露
+Citrix ADC and Gateway  目录遍历
+DOMOS  任意文件包含
+Deltek Maconomy  任意文件包含
+GrandNode  任意文件包含
+Homematic CCU  任意文件包含
+Huawei Firewall  任意文件包含
+IceWarp Mail Server  任意文件包含
+Ignite Realtime Openfire任意文件包含
+Jiangnan Online Judge  任意文件包含
+Jira信息泄露
+Joomla 任意文件包含
+Kentico CMS Insecure Deserialization Remote Code Execution  远程代码执行
+Kirona Dynamic Resource Scheduler  信息泄露
+LabKey Server Community Edition开放重定向
+Lansweeper Unauthenticated SQL Injection  SQL注入
+Magento  SQL注入
+MetInfo beta  SQL注入
+Metinfo beta  SQL注入
+Nimble Streamer  任意文件包含
+Optergy Proton/Enterprise Building Management System  开放重定向
+Oracle Business Intelligence  路径遍历
+Oracle Business Intelligence Publisher  XML外部实体注入
+Oracle Fusion Middleware WebCenter Sites  访问控制破坏
+PHPSHE  SQL注入
+Pallets Werkzeug任意文件包含
+PilusCart  任意文件包含
+Spring Cloud Config Server  任意文件包含
+Teclib GLPI  SQL注入
+ThinVNC  认证绕过
+Totaljs任意文件包含
+Wavemaker Studio  任意文件包含
+WordPress Google MapsSQL注入
+Xiaomi Mi WiFi R Routers  任意文件包含
+Yachtcontrol Webapplication  命令注入
+Zeroshell  远程命令执行
+Apache Struts  远程代码执行
+Artica Pandora FMS  任意文件读取
+Artica Proxy Community Edition任意文件包含
+Artica Web Proxy  SQL注入
+Cisco Adaptive Security Appliance (ASA)/Firepower Threat Defense (FTD)  任意文件包含
+Cisco SD  任意文件包含
+Citrix ADC and Citrix NetScaler Gateway  代码注入
+Citrix ShareFile StorageZones  任意文件读取
+Citrix XenMobile Server  任意文件包含
+GLPI开放重定向
+GateOne  任意文件包含
+Gridx  远程代码执行
+INTELBRAS TELEFONE IP TIP  任意文件包含
+Intelbras TIP / LITE/  任意文件包含
+Keycloak  服务端请求伪造
+LimeSurvey  任意文件包含
+LinuxKI Toolset  远程命令执行
+LionWiki任意文件包含
+Lotus Core CMS  任意文件包含
+Mida eFramework  远程命令执行
+Mitel MiCollab AWV and  目录遍历
+Netsweeper  代码注入
+Next任意文件包含
+Oracle Fusion  任意文件包含
+Oracle Weblogic Server  远程命令执行
+Oracle iPlanet Web Server  认证绕过
+PHP  远程代码执行
+Processwire CMS任意文件包含
+Ruby on Rails远程代码执行
+SearchBlox任意文件包含
+Smartstore开放重定向
+Spring Cloud Config  任意文件包含
+TerraMaster TOS  远程命令执行
+ThinkAdmin  任意文件包含
+UnRaid  远程代码执行
+WAVLINK WN live_api  命令注入
+WeiPHP  SQL注入
+WordPress Duplicator &  任意文件包含
+WordPress PayPal ProSQL注入
+WordPress acf  不安全的直接对象引用
+Yii远程代码执行
+Zeroshell  命令注入
+Zyxel NAS Firmware  远程代码执行
+exacqVision Web Service  远程代码执行
+AfterLogic Aurora and WebMail Pro信息泄露
+Akkadian Provisioning Manager  信息泄露
+BIQS IT Biqs  任意文件包含
+Cartadis Gespage  目录遍历
+Chamilo model  SQL注入
+Draytek VigorConnect  任意文件包含
+ECOA Building Automation System  目录遍历
+EyouCMS Open Redirect  开放重定向
+FAUST iServer  任意文件包含
+FortiWeb  跨站脚本
+GLPI plugin Barcode路径遍历
+Galera WebTemplate Directory Traversal  目录遍历
+Geutebruck  命令注入
+Hongdian H  信息泄露
+Hongdian H Devices  任意文件包含
+Hue Magic  任意文件包含
+IceWarp Mail Server  开放重定向
+Ivanti Avalanche  任意文件包含
+Jellyfin  服务端请求伪造
+Jellyfin任意文件包含
+Joomla 任意文件包含
+Layer Meshery  SQL注入
+MERCUSYS Mercury X Router  任意文件包含
+Metabase  任意文件包含
+Motorola Baby Monitors  远程命令执行
+Node System Information Library命令注入
+Nodejs Squirrelly  远程代码执行
+Noptin开放重定向
+Onair < & KenthaRadio任意文件包含
+Patreon WordPress任意文件包含
+Payara Micro Community Directory Traversal  目录遍历
+PrestaHome Blog for PrestaShopSQL注入
+PrestaShop SmartBlogSQL注入
+Python Flask  开放重定向
+Reolink E Zoom Camera  信息泄露
+Ruby Dragonfly远程代码执行
+Sercomm VD Smart Modems  CRLF注入
+Spring Boot Actuator Logview Directory Traversal  目录遍历
+Spring Cloud Netflix Hystrix Dashboard远程代码执行
+TermTalk Server  任意文件包含
+Websvn远程代码执行
+WooCommerce Blocks to  SQL注入
+WordPress AcyMailing开放重定向
+WordPress AnyComment开放重定向
+WordPress DZS Zoomsounds  任意文件包含
+WordPress English Admin开放重定向
+WordPress Event Tickets开放重定向
+WordPress Guppy  信息泄露
+WordPress Modern Events Calendar Lite信息泄露
+WordPress Podlove Podcast PublisherSQL注入
+WordPress wpForo Forum开放重定向
+YeaLink DM  命令注入
+ffay lanproxy Directory Traversal  目录遍历
+kkFileview  任意文件包含
+Ametys CMS Information Disclosure  信息泄露
+Apache OFBiz任意文件包含
+Atlassian Bitbucket  命令注入
+BigAnt Server  任意文件包含
+Cacti  命令注入
+Caddy  开放重定向
+Casdoor  SQL注入
+Confluence  远程代码执行
+DVDFab Player/PlayerFab  任意文件包含
+Gitblit  任意文件包含
+Helmet Store Showroom  跨站脚本
+Hitachi Pentaho Business Analytics Server  远程代码执行
+ILIAS eLearning开放重定向
+Icinga Web  文件泄露
+LearnPress Plugin任意文件包含
+MSNSwitch Firmware MNT  认证绕过
+MapSVGSQL注入
+MeterSphere < SSRF  服务端请求伪造
+Microfinance Management System  SQL注入
+MicroweberCRLF注入
+Omnia MPX +r  任意文件包含
+Online Fire Reporting System  SQL注入
+Photo Gallery bySQL注入
+Piano LED Visualizer  任意文件包含
+Powertek Firmware授权绕过
+QNAP QTS Photo Station External Reference  任意文件包含
+ReQlogic  跨站脚本
+SolarView Compact  任意文件包含
+Tenda AC V  认证绕过
+Wavlink WL  信息泄露
+WordPress CDI跨站脚本
+WordPress Directorist信息泄露
+WordPress InPost Gallery任意文件包含
+WordPress MultiSafepay for WooCommerce  任意文件读取
+WordPress Page Builder KingComposer  开放重定向
+WordPress Shareaholic信息泄露
+WordPress User Post Gallery  远程代码执行
+WordPress XML Sitemap Generator for Google远程代码执行
+Zimbra Collaboration (ZCS)  跨站脚本
+Zyxel  认证绕过
+Adlisting Classified Ads  信息泄露
+Adobe Coldfusion  认证绕过
+Adobe Connect文件泄露
+BlogEngine CMS  开放重定向
+Chamilo LMS <= Unauthenticated Command Injection  命令注入
+Chaosblade远程代码执行
+ChatGPT  跨站脚本
+CopyParty  跨站脚本
+Copyparty  目录遍历
+EyouCms  信息泄露
+FileMage Gateway  目录遍历
+FortiWLM  目录遍历
+Ghost CMS路径遍历
+Gibbon  任意文件包含
+Hotel Booking Lite任意文件下载
+IceWarp Email Client  跨站脚本
+IceWarp Mail Server Deep Castle  开放重定向
+IceWarp Webmail Server  跨站脚本
+Imgproxy跨站脚本
+Ivanti ICS  认证绕过
+JFinalCMS  目录遍历
+Jeecg P Biz Chat  任意文件包含
+Lightdash version Arbitrary File Read  任意文件读取
+MLflow Absolute Path Traversal  路径遍历
+MagnusBilling  远程代码执行
+MajorDoMo thumb  命令注入
+Milesight Routers  信息泄露
+Mosparo开放重定向
+NocoDB version  任意文件读取
+Nodogsplash  目录遍历
+Nuovo Spreadsheet Reader  任意文件包含
+OURPHP  跨站脚本
+OpenCms &  开放重定向
+Openfire Administration Console  认证绕过
+PHP Jabbers Night Club Booking  跨站脚本
+PHPJabbers Food Delivery Script  SQL注入
+PHPJabbers Service Booking Script  跨站脚本
+PHPJabbers Shuttle Booking Software  跨站脚本
+PHPJabbers Taxi Booking  跨站脚本
+PaperCut路径遍历
+Payment Gateway for Telcell开放重定向
+PrestaShop fieldpopupnewsletter Module  跨站脚本
+PrestaShop tshirtecommerce  目录遍历
+Purchase Order Management  SQL注入
+Qlik Sense Enterprise  HTTP请求走私
+Qlik Sense Enterprise  路径遍历
+Ruckus Wireless Admin  远程代码执行
+STAGIL Navigation for Jira Menu & Themes任意文件包含
+ShokoServer System  任意文件包含
+ShortPixel Adaptive Images跨站脚本
+SonicWall SMA LFI  任意文件包含
+Strapi Versions  认证绕过
+TOTOLINK A  命令注入
+TimeKeeper by FSMLabs  远程代码执行
+Weaver OA  信息泄露
+WordPress Pie Register开放重定向
+XWiki  开放重定向
+XWiki信息泄露
+XWiki Platform  远程代码执行
+ZKTeco BioTime  路径遍历
+mooSocial  跨站脚本
+openSIS  路径遍历
+ASUS DSL  认证绕过
+Adobe ColdFusion  任意文件读取
+Artica Proxy  任意文件包含
+Bazarr任意文件读取
+BentoML  开放重定向
+Brother MFC  信息泄露
+CData API Server路径遍历
+Cacti cmd_realtime  命令注入
+Calibre  跨站脚本
+ChatGPT个人专用版  服务端请求伪造
+Crypto  认证绕过
+CyberPower  SQL注入
+Devika  任意文件包含
+Docassemble  任意文件包含
+DrayTek Vigor  命令注入
+Exrick XMall  SQL注入
+FastAdmin < V  路径遍历
+Flarum开放重定向
+Fortra GoAnywhere MFT  认证绕过
+Journyx  跨站脚本
+Kerio Control  CRLF注入
+Keycloak  开放重定向
+MasterSAM Star Gate  任意文件包含
+MindsDB  服务端请求伪造
+Netgear R  信息泄露
+Next  服务端请求伪造
+OpenMetadata  认证绕过
+Oracle Retail Xstore Suite  路径遍历
+Progress Kemp Flowmon  命令注入
+Puppeteer Renderer  目录遍历
+Raisecom MSG , MSG , MSG and MSG  命令注入
+Reposilite ,任意文件读取
+Riello Netman  SQL注入
+SafeGuard for Privileged Passwords认证绕过
+SimpleHelp  路径遍历
+SolarWinds Serv  目录遍历
+Telesquare TLR  远程命令执行
+TileServer API  跨站脚本
+Travelpayouts  开放重定向
+Twisted  跨站脚本
+WP  SQL注入
+WP Umbrella Update Backup Restore & Monitoring  任意文件包含
+WordPress Automatic Plugin服务端请求伪造
+WordPress HTML Video PlayerSQL注入
+iTop Hub Connector  信息泄露
+FoxCMS  远程代码执行
+IdeaCMS  SQL注入
+InstaWP Connect文件包含
+Ivanti Endpoint Manager Mobile  远程代码执行
+JoomlaUX JUX Real Estate  跨站脚本
+Kubio AI Page Builder  任意文件包含
+MeteoBridge  远程代码执行
+Moodle Jmol Filter  任意文件包含
+Navidrome  认证绕过
+NetMRI认证绕过
+NetMRI Unauthenticated SQL Injection via skipjackUsername  SQL注入
+Palo Alto Networks Expedition  命令注入
+Personal Weather Station Dashboard  目录遍历
+Pichome  任意文件读取
+Pterodactyl Panel  远程代码执行
+Sante PACS Server  路径遍历
+SawtoothSoftware Lighthouse Studio远程代码执行
+Slider & Popup Builder by Depicter  SQL注入
+White Star Software ProTop  目录遍历
+XWiki Platform  远程代码执行
+Yeswiki路径遍历
+mojoPortal  目录遍历
+AVTECH AVC DVR  信息暴露
+Blazor Boot File Disclosure  文件泄露
+FastCGI Configuration  文件泄露
+Mercurial Ignore  文件泄露
+PHP_CodeSniffer Configuration Exposure  配置信息泄露
+Phinx Configuration Exposure  配置信息泄露
+Psalm Configuration Exposure  配置信息泄露
+cPanel Configuration  文件泄露
+Apdisk  文件泄露
+Application Setting file disclosure  文件泄露
+Azure Pipelines Configuration File Disclosure  文件泄露
+BitBucket Pipelines Configuration Exposure  配置信息泄露
+Cargo TOML File Disclosure  文件泄露
+Composer  文件泄露
+Credentials File Disclosure  文件泄露
+Dnsmasq Config  文件泄露
+Docker Cloud Yaml  文件泄露
+Elastic Kibana Config  文件泄露
+Git Mailmap File Disclosure  文件泄露
+Haproxy Config  文件泄露
+Icecast Config  文件泄露
+Lighttpd Config File  文件泄露
+PHP  文件泄露
+Php File Disclosure  文件泄露
+Redmine settings File Disclosure  文件泄露
+Secret Token Ruby  文件泄露
+Service Account Credentials File Disclosure  文件泄露
+Snyk Ignore File Disclosure  文件泄露
+Socks VPN  文件泄露
+StyleCi Yaml File Disclosure  文件泄露
+Symfony properties File Disclosure  文件泄露
+Symfony security File Disclosure  文件泄露
+WS FTP File Disclosure  文件泄露
+Yarn Lock File Disclosure  文件泄露
+phpunit File Disclosure  文件泄露
+Milesight Industrial Cellular Routers  信息泄露
+Production Log File Disclosure  文件泄露
+Selea Targa IP OCR  任意文件包含
+Joomla! htaccess file disclosure  文件泄露
+Ecology  信息暴露
+Mysql History  文件泄露
+SonarQube  信息泄露
+SpiderControl SCADA Web Server  信息暴露
+TiTiler  服务端请求伪造
+Apache Solr  任意文件包含
+Apache Code  远程代码执行
+Dahua EIMS  远程命令执行
+Dede CMS  SQL注入
+DedeCMS  开放重定向
+Drupal Elfinder  远程代码执行
+FineReport  任意文件包含
+FineReport SQLi  SQL注入
+Grafana  任意文件包含
+HCM Cloud  任意文件读取
+Hongjing HCM  SQL注入
+Hongjing HCM  任意文件包含
+HTTPBin  开放重定向
+IBM InfoPrint  任意文件包含
+IDoc View  任意文件读取
+Jinhe OA_C _UploadFileDownLoadnew  任意文件读取
+Joomla SQL注入
+Joomla SQL注入
+Joomla 任意文件包含
+Joomla 任意文件包含
+Landray EIS  SQL注入
+Netgear DGN Devices  命令执行
+NetMizer LogManagement System cmd  远程代码执行
+Netsweeper  开放重定向
+AVCON  任意文件下载
+AVCON org_execl_download  任意文件下载
+AeroCMS  SQL注入
+Alibaba Anyproxy fetchBody File  路径遍历
+Apache Druid  远程代码执行
+Asanhamayesh CMS  任意文件包含
+AspCMS commentList  SQL注入
+BEWARD N H VGA IP Camera M  文件泄露
+Carel pCOWeb HVAC BACnet Gateway  任意文件包含
+CmsEasy crossall_act  SQL注入
+Crawlab  任意文件读取
+Crocus system Service  任意文件读取
+DSS Download  任意文件包含
+Dicoogle PACS  任意文件包含
+Dotnet CMS  SQL注入
+Duomi CMS  SQL注入
+ECTouch  SQL注入
+EasyImage down  任意文件读取
+Elasticsearch  远程代码执行
+FastBee  任意文件包含
+FeiFeiCms  任意文件包含
+FineCMS  SQL注入
+Flir  任意文件包含
+Fumasoft Cloud  SQL注入
+GeoVision Geowebserver  任意文件包含
+Groupoffice  任意文件包含
+Hanming Video Conferencing  任意文件包含
+Hanta Internet Behavior Management System  远程代码执行
+HomeAutomation  开放重定向
+Hongfan OA ioFileExport  任意文件读取
+Hrsale  任意文件包含
+Huiwen library bibliographic Retrieval System  信息暴露
+Interlib  任意文件包含
+JEEWMS  任意文件包含
+JeePlus CMS  SQL注入
+Jinfornet Jreport  任意文件包含
+Jitsi Meet  远程代码执行
+Joomla 任意文件包含
+Karel IP Phone IP Web Management Panel  任意文件包含
+Kavita  任意文件包含
+Khodrochi CMS  跨站脚本
+Kingsoft  任意文件包含
+Kingsoft VGM Antivirus  任意文件读取
+Kyocera Command Center RX ECOSYS M  任意文件包含
+Landray OA Datajson S Bean  远程代码执行
+LiveBOS ShowImage  任意文件读取
+Logstash  远程代码执行
+Lokomedia CMS  任意文件包含
+Longjing Technology BEMS API  任意文件包含
+MPSec ISG  任意文件包含
+MagicFlow  任意文件包含
+Management Console  任意文件包含
+McAfee ePolicy Orchestrator  任意文件上传
+Metabase  远程代码执行
+Mockoon  路径遍历
+MoticDSM  任意文件读取
+NS ASG  任意文件包含
+NUUO NVRmini  远程代码执行
+Nacos  信息泄露
+Next开放重定向
+Nsfocus  任意文件读取
+Odoo CMS  开放重定向
+Okta  远程代码执行
+Oliver Library Server任意文件包含
+OpenSNS  远程代码执行
+Oracle Fatwire  路径遍历
+OrbiTeam BSCW Server  任意文件包含
+Otobo  开放重定向
+PACSOne Server  任意文件包含
+PHPOK  SQL注入
+Panmicro E  任意文件读取
+Phuket Solution CMS  SQL注入
+Phuket Solution CMS  跨站脚本
+QiHang Media Web (QH ) Digital Signage  文件泄露
+RentEquip Multipurpose Rental  跨站脚本
+SHOOWBIZ  跨站脚本
+SOUND IMPACT/FIRST/PULSE/Eco (PHPTail) Unauthenticated File Disclosure  文件泄露
+Sangfor Log Center  远程命令执行
+SeaCMS  SQL注入
+Senayan Library Management System (SLIMS )  跨站脚本
+Sharp Multifunction Printers  任意文件包含
+Softneta MedDream PACS Server Premium  任意文件包含
+Sonicwall SSLVPN  远程代码执行
+Surreal ToDo  任意文件包含
+Symantec Messaging Gateway  任意文件包含
+TPshop  任意文件包含
+Taiwanese Travel  任意文件包含
+TamronOS IPTV/VOD  远程命令执行
+Thinkific  开放重定向
+Tiki Wiki CMS Groupware  跨站脚本
+Twig PHP < template engine  服务端模板注入
+UEditor  任意文件上传
+Umbraco  服务端请求伪造
+UniSharp Laravel File Manager  任意文件读取
+Universal Media Server  跨站脚本
+VMware Site Recovery Manager  远程代码执行
+Voyager  目录遍历
+WIFISKY  远程代码执行
+WebUI  远程代码执行
+Webbdesign SL  任意文件包含
+WiseGiga NAS  任意文件读取
+Wuzhicms  SQL注入
+Xerox DC EFI Fiery Controller Webtools  任意文件包含
+Xhibiter NFT Marketplace  SQL注入
+YesWikiSQL注入
+ZCMS  SQL注入
+Zhixiang OA msglog  SQL注入
+Zzcms `register_nodb `  跨站脚本
+nginxWebUI runCmd  远程命令执行
+openSIS  任意文件包含
+yishaadmin  任意文件包含
+BSPHP  信息泄露
+Open Journal Systems pkp  开放重定向
+Ruby on Rails  CRLF注入
+Ruijie Networks Switch eWeb S _RGOS  任意文件包含
+Samsung WLAN AP WEA  任意文件包含
+Seeyon OA A config  信息泄露
+Seeyon OA A setextno  SQL注入
+Seeyon WooYun  任意文件包含
+Shiziyu CMS Api Controller  SQL注入
+Splash Render  服务端请求伪造
+SquirrelMail  任意文件包含
+ThinkCMF  远程代码执行
+ThinkPHP  信息泄露
+ThinkPHP /  远程代码执行
+Tongda OA V Video File  任意文件读取
+Tongda OA getadata  远程代码执行
+UEditor  服务端请求伪造
+Arcade  SQL注入
+Linux Vmware Vcenter  任意文件包含
+VMWare Cloud  跨站脚本
+Wanhu OA DownloadServlet  文件泄露
+Wanhu OA download_ftp  任意文件读取
+Wanhu OA download_old  任意文件读取
+Ecology  SQL注入
+Ecology  任意文件包含
+Ecology Springframework  任意文件包含
+Ecology Syncuserinfo  SQL注入
+Fanwei OA E  信息泄露
+Weaver E  SQL注入
+Weaver E  目录遍历
+Mega Wordpress Theme  跨站脚本
+Ninja Tables任意文件读取
+WordPress All  开放重定向
+WordPress Javo Spot Premium Theme  任意文件包含
+WordPress Memphis Document Library  任意文件包含
+WordPress Pie Register开放重定向
+WordPress Vault  任意文件包含
+WordPress WPtouch  开放重定向
+Chanjet TPlus DownloadProxy  任意文件读取
+UFIDA NC Portal  任意文件读取
+UFIDA U CRM cfillbacksetting  SQL注入
+Wooyun  任意文件包含
+YonBIP  任意文件读取
+YonYou KSOA common/dept  SQL注入
+Yonyou U  SQL注入
+Yonyou UFIDA NC  信息暴露
+ScoreMe Theme 跨站脚本
+Apache Solr XML外部实体注入
+Dreambox WebControl 跨站脚本
+Jorani Leave Management System 跨站脚本
+Lantronix SecureLinx Spider (SLS) 跨站脚本
+Oracle Fusion Middleware WebCenter Sites 跨站脚本
+Contentful 跨站脚本
+Intelbras TIP 跨站脚本
+McAfee ePolicy Orchestrator 跨站脚本
+Palo Alto Networks PAN-OS Web Interface 跨站脚本
+WordPress EventON Calendar 跨站脚本
+Aruba Instant Access Point (IAP) 跨站脚本
+IRTS OP Monitor 跨站脚本
+WordPress Calendar Event Multi View 跨站脚本
+WordPress Jannah Theme 跨站脚本
+WordPress Pro Real Estate Theme 跨站脚本
+WordPress Supsystic Ultimate Maps 跨站脚本
+npm ansi_up 跨站脚本
+Kae's File Manager 跨站脚本
+ResourceSpace 元数据导出
+SmarterTools SmarterTrack 跨站脚本
+WordPress Copyright Proof 跨站脚本
+WordPress PhonePe Payment Solutions 服务端请求伪造
+WordPress WOOCS 跨站脚本
+CrafterCMS Engine 跨站脚本
+Emlog Pro 跨站脚本
+FOSSBilling 跨站脚本
+IceWarp Mail Server 跨站脚本
+WP-Optimize WordPress plugin 跨站脚本
+phpMyFAQ 跨站脚本
+wpForo Forum 跨站脚本
+Cisco Smart Licensing Utility 日志泄露（明文凭据）
+Coda 跨站脚本
+D-Link Network Attached Storage 后门账户
+Ganglia Web Interface 跨站脚本
+Hurrakify 服务端请求伪造
+Qualitor 服务端请求伪造
+ServiceNow 输入验证不完整
+ServiceNow UI Macros 模板注入
+W&B Weave Server 远程任意文件泄露
+Grafana 钉钉API密钥泄露
+MailEnable Mail Service 跨站脚本
+Vitest Browser Mode 本地文件读取
+SolarWinds Orion SQL注入
+Joomla! com_booking component 信息泄露
+Array VPN 任意文件读取
+GeoVision Geowebserver 跨站脚本
+Netis E + V WiFi密码泄露
+Nginx Virtual Host Traffic Status Module 跨站脚本
+Nsfocus 任意用户登录
+Readymade Unilevel Ecommerce MLM 跨站脚本
+Zimbra Collaboration Suite 服务端请求伪造
+Sangfor Next Gen Application Firewall 任意文件读取
+ZZZCMS 跨站脚本

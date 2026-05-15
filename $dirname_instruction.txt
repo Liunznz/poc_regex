@@ -1,0 +1,11 @@
+poc:原始github文件夹和文件以及poc解析结果excel表
+2poc:用来调试
+poc_all_zh:漏洞英文转中文
+poc_luru:漏洞英文转中文之后放到这里，用来测试正则的（再放一份到poc_qian_test）
+test_poc:筛选没有未翻译值的行数据，正则测试的结果在这里
+poc_qian_test:之前poc_luru的文件放到这里，可用于最后筛选【未翻译的】值的优化
+bigsize_poc:存放大文件的，最后再弄
+poc_submit:用来保存提交数据后的结果
+submit_comp:已完成提交的(主要是把已完成提交的test_poc下的文件弄到这里)
+poc_zhV2：二次翻译（翻译poc_qian_test里面的文件）
+poc_notra_invalid：没有翻译和无效路径的地方
