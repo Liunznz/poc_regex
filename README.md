@@ -1,8 +1,8 @@
 # poc_regex
  poc_regex：从xray/fscan/nuclei的 全部YAML 文件中提取 GET 的payload特征路径，生成高质量正则规则
 
+**文档说明**
 ├── nuclei_poc_analysis.py               # 主解析脚本：递归遍历 YAML 文件，提取 GET 路径，生成原始 Excel
-
 ├── poc_name_chV2.py                     # 中英文翻译 + 二次无效路径过滤 + 去重合并，输出最终清洗版
 
 ├── re_generate.py                       # 从「所有路径(原始)」列重新生成正则（支持手动编辑后重算）
