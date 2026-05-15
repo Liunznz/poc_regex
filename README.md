@@ -1,25 +1,42 @@
 # poc_regex
  poc_regex：从xray/fscan/nuclei的 全部YAML 文件中提取 GET 的payload特征路径，生成高质量正则规则
 
-.
 ├── nuclei_poc_analysis.py               # 主解析脚本：递归遍历 YAML 文件，提取 GET 路径，生成原始 Excel
+
 ├── poc_name_chV2.py                     # 中英文翻译 + 二次无效路径过滤 + 去重合并，输出最终清洗版
+
 ├── re_generate.py                       # 从「所有路径(原始)」列重新生成正则（支持手动编辑后重算）
+
 ├── wubao_all_type.py                    # 正则误报风险评估：按漏洞类型匹配攻击特征，输出高风险规则报告
+
 ├── final_merge_excel.py                 # 合并多个 Excel 文件（支持 .xlsx / .xls）
+
 ├── 2re_match_result.py                  # 早期版本：正则验证脚本（调用 API 校验）已注释部分，保留参考
+
 ├── 3path_submit201.py                   # 提交成功规则到服务端（并发 + 全局去重）
+
 ├── 4_0final_poc_nuclei_fscan.py         # 最终合并清洗脚本：整合 poc_luru / fscan_poc 等多源数据
+
 ├── 4excelfile_poc_match.py              # 对比「漏洞扫描逻辑表」与「POC表」，筛选出新增 POC
+
 ├── 5parse_vuln.py                       # 解析 vuln_names.txt，提取组件、漏洞类型、CVE 编号
+
 ├── clean_name.py                        # 清洗漏洞中文名称（删除特殊字符、转小写）
+
 ├── re_quchong.py                        # 在 Excel 中标记重复行（红色字体或红色背景）
+
 ├── wubao.py                             # 早期命令执行规则风险评估（已整合到 wubao_all_type，保留参考）
+
 ├── poc_name_ch.py                       # 早期版本：漏洞名称翻译（保留参考）
+
 ├── invalid_path.txt                     # 无效路径黑名单（300+ 条，可自由增删）
+
 ├── vuln_names.txt                       # 漏洞名称原始数据（用于测试 5parse_vuln.py）
+
 ├── $dirname_instruction.txt             # 目录结构说明文档（解释各文件夹用途）
+
 ├── poc_final_fscan_nuclei_cleanedV5.xlsx   # 最终产出的 707 条正则规则（直接可用）
+
 └── README.md                            # 项目说明文档
 
 
